@@ -1,0 +1,79 @@
+---
+import Section from "../Section.astro"
+import { skills } from "@cv"
+
+import Git from "@/icons/git.astro"
+import GitHub from "@/icons/GitHub.astro"
+import HTML from "@/icons/html.astro"
+import HuggingFace from "@/icons/HuggingFace.astro"
+import Pandas from "@/icons/pandas.astro"
+import Python from "@/icons/python.astro"
+import PyTorch from "@/icons/pytorch.astro"
+import Scikitlearn from "@/icons/scikitlearn.astro"
+import Snowflake from "@/icons/snowflake.astro"
+import SQL from "@/icons/sql.astro"
+import Tableau from "@/icons/tableau.astro"
+import TensorFlow from "@/icons/tensorflow.astro"
+import Jupyter from "@/icons/jupyter.astro"
+import spaCy from "@/icons/spacy.astro"
+import SLURM from "@/icons/slurm.astro"
+
+
+const SKILLS_ICONS: Record<string, any> = {
+  TensorFlow,
+  Tableau,
+  SQL,
+  spaCy,
+  Snowflake,
+  SLURM,
+  Scikitlearn,
+  PyTorch,
+  Python,
+  Pandas,
+  Jupyter,
+  HuggingFace,
+  HTML,
+  GitHub,
+  Git,
+
+}
+---
+
+<Section title="Skills">
+  <ul>
+    {
+      skills.map(({ name }) => {
+        const iconName = name === "Next.js" ? "Next" : name
+        const Icon = SKILLS_ICONS[iconName]
+
+        return (
+          <li>
+            {Icon && <Icon />} <span>{name}</span>
+          </li>
+        )
+      })
+    }
+  </ul>
+</Section>
+
+
+
+<style>
+  ul {
+    display: inline-flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  li {
+    align-items: center;
+    background: #eee;
+    border-radius: 6px;
+    color: black;
+    display: flex;
+    font-size: 0.8rem;
+    font-weight: 500;
+    gap: 4px;
+    padding: 0.2rem 0.6rem;
+  }
+</style>
