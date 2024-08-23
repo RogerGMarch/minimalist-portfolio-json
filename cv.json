@@ -1,0 +1,302 @@
+{
+  "basics": {
+    "name": "Roger González March",
+    "label": "ML Researcher for Planetary Health",
+    "image": "/me.webp",
+    "email": "roger.gonzalez03@estudiant.upf.edu",
+    "phone": "+34 608 81 34 02",
+    "url": "https://linkedin.com/in/roger-gonzález-march",
+    "summary": "I'm a physicist and data scientist diving into the world of AI. I excel in graphically representing complex data through aesthetics and design. Experience in computational social science and planetary health. I'm eager to explore opportunities where I can fuse science, analytics, and creativity to forge innovative solutions.",
+       "location": {
+      "address": "123 Main Street",
+      "postalCode": "08003",
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "region": "Catalonia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "roger-gonzález-march",
+        "url": "https://www.linkedin.com/in/roger-gonzález-march"
+      },
+      {
+        "network": "GitHub",
+        "username": "RogerGM",
+        "url": "https://github.com/RogerGMarch"
+      },
+      {
+        "network": "Medium",
+        "username": "rogergmarch",
+        "url":  "https://medium.com/@rogergmarch"
+
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Barcelona Supercomputing Center",
+      "position": "Urban Digital Twin Developer",
+      "startDate": "2024-07",
+      "summary": "Contributing to the development of urban digital twins, including the implementation of cartographic data and the use of tools like CARTO. Participating in the 'Climate Shelters in Barcelona | vCity' project, focusing on hybrid work environments to enhance urban planning and climate resilience.",
+      "location": "Barcelona, Cataluña, España",
+      "url": "https://www.vcity.tech/"
+    },
+    {
+      "name": "Eurecat",
+      "position": "Internship Data Scientist",
+      "startDate": "2024-03",
+      "endDate": "2024-07",
+      "summary": "Engaging in the 'Complexity of Information Dynamics' project to analyze disinformation spread on social networks. Reviewing AI/Deep Learning models for disinformation detection, developing deep learning models to predict content virality, and visualizing network data for trend analysis.",
+      "url": "https://eurecat.org/ambits-de-coneixement/big-data/"
+    },
+    {
+      "name": "Universitat Pompeu Fabra",
+      "position": "ML Researcher for Planetary Health",
+      "startDate": "2023-10",
+      "endDate": "2024-07",
+      "highlights": "ML",
+      "summary": "Applying machine learning and NLP techniques for analyzing academic and research agendas. Conducted network analysis to map the relationships between Sustainable Development Goals and UPF's academic outputs. Implemented BERT-based language models and employed data mining to uncover complex data patterns.",
+      "url": "https://www.upf.edu/web/wellbeing"
+    },
+    {
+      "name": "SDG Group ",
+      "position": "Data Analyst - Tableau Developer",
+      "startDate": "2022-02",
+      "endDate": "2023-10",
+      "summary": "Specialized in data visualization and analytics in one of the largest pharmaceutical companies, turning complex data into actionable insights for business and technical audiences. Leveraged Tableau, SQL, and Python to simplify data access and improve integration. Created impactful reports and dashboards, resolved technical issues, and collaborated with international teams using Agile methodologies.",
+      "url": "https://www.linkedin.com/company/sdg-group-spain/?originalSubdomain=es"
+    },
+    {
+      "name": "Universitat Politècnica de Catalunya",
+      "position": "Data Analyst at CERN n_TOF Facility",
+      "startDate": "2021-09",
+      "endDate": "2022-07",
+      "summary": "Developed and implemented digital signal processing algorithms using the C++ ROOT framework. Implemented digital filters for neutron detectors, reconstructed spectra under high-pileup conditions, and analyzed measurement data to evaluate electronics behavior.",
+      "url": "https://ant.upc.edu/en/enpai"
+    },
+    {
+      "name": "CCiTUB",
+      "position": "Raman Spectroscopy Researcher",
+      "startDate": "2020-02",
+      "endDate": "2022-03",
+      "summary": "Conducted research using Raman spectroscopy techniques, developing skills in scientific analysis and instrumentation.",
+      "url": "http://www.ccit.ub.edu/ES/home.html"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universitat Pompeu Fabra, Barcelona",
+      "area": "Master's Degree in Intelligent Interactive Systems",
+      "studyType": "Master",
+      "startDate": "2023-09"
+    },
+    {
+      "institution": "Universitat de Barcelona",
+      "area": "Bachelor's Degree in Physics",
+      "studyType": "Bachelor",
+      "startDate": "2017",
+      "endDate": "2021"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python",
+      "keywords": ["Deep Learning", "AI/ML Technology", "GDL", "LLMs", "Natural Language Processing (NLP)", "Agile", "Teamwork", "Leadership", "Proactive", "Communication", "Empathy"]
+    },
+    {
+      "name": "Jupyter",
+      "keywords": ["Pandas", "Scikit-learn", "Huggingface", "TensorFlow", "Spacy", "Tableau", "Power BI", "SQL", "Snowflake"]
+    },
+    {
+      "name": "Pandas",
+      "keywords": ["Pandas", "Scikit-learn", "Huggingface", "TensorFlow", "Spacy", "Tableau", "Power BI", "SQL", "Snowflake"]
+    },
+    {
+      "name": "Scikitlearn",
+      "keywords": ["Python", "SQL", "LaTeX", "Matlab", "ROOT"]
+    },
+
+    {
+      "name": "PyTorch",
+      "keywords": ["Pandas", "Scikit-learn", "Huggingface", "TensorFlow", "Spacy", "Tableau", "Power BI", "SQL", "Snowflake"]
+    },
+
+    {
+      "name": "TensorFlow",
+      "keywords": ["Pandas", "Scikit-learn", "Huggingface", "TensorFlow", "Spacy", "Tableau", "Power BI", "SQL", "Snowflake"]
+    },
+
+    {
+      "name": "spaCy",
+      "keywords":["spaCy"]
+    },
+
+    {
+      "name": "SQL",
+      "keywords": ["Pandas", "Scikit-learn", "Huggingface", "TensorFlow", "Spacy", "Tableau", "Power BI", "SQL", "Snowflake"]
+    },
+
+    {
+      "name": "AWS",
+      "keywords": ["AWS","Amazon Web Services"]
+    },
+
+    {
+      "name": "Snowflake",
+      "keywords": ["Pandas", "Scikit-learn", "Huggingface", "TensorFlow", "Spacy", "Tableau", "Power BI", "SQL", "Snowflake"]
+    },
+
+    {
+      "name": "Tableau",
+      "keywords":["Tableau"]
+    },
+
+    {
+      "name": "Git",
+      "keywords":["Git"]
+    },
+    {
+      "name": "SLURM",
+      "keywords":["HuggingFace"]
+    },    
+    {
+      "name": "HuggingFace",
+      "keywords":["HuggingFace"]
+    },
+
+    {
+      "name": "HTML",
+      "keywords":["HTML"]
+    }
+
+
+  ],
+
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "C1 - Advanced"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    },
+    {
+      "language": "Catalan",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Data Science",
+      "keywords": ["Big Data", "AI Applications", "Healthcare"]
+    },
+    {
+      "name": "Planetary Health",
+      "keywords": ["Sustainability", "Climate Change"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Dr. Anna Costa",
+      "reference": "Dr. Costa was my supervisor during my internship at Eurecat and can attest to my skills and dedication to AI research."
+    },
+    {
+      "name": "Prof. Carlos Mendez",
+      "reference": "Prof. Mendez has been my mentor throughout my academic journey at Universitat Pompeu Fabra, guiding me in AI research."
+    }
+  ],
+  "awards": [{
+    "title": "Young Researcher Award",
+    "date": "2023-11-01",
+    "awarder": "AI for Good Global Summit",
+    "summary": "Awarded for innovative use of AI in planetary health research."
+  }],
+  "certificates": [{
+    "name": "Certified Data Scientist",
+    "date": "2023-05-07",
+    "issuer": "DataCamp",
+    "url": "https://datacamp.com/certificate"
+  }],
+  "publications": [{
+    "name": "Advances in AI for Planetary Health",
+    "publisher": "Nature AI",
+    "releaseDate": "2024-01-01",
+    "url": "https://nature.com/articles/ai-planetary-health",
+    "summary": "A study on the application of artificial intelligence techniques in the analysis of environmental data for sustainable development."
+  }],
+  "projects": [
+    {
+      "name": "Climate Shelters in Barcelona",
+      "isActive": true,
+      "description": "Storytelling with reveal.js and CARTO on the accessibility of climate shelters in Barcelona, focusing on vulnerable populations during heat waves. The research assesses current coverage, identifies gaps, and proposes solutions to improve access to shelters by 2030.",
+      "highlights": [
+        "Urban Planning",
+        "Climate Resilience",
+        "Socio-demographic Analysis",
+        "CARTO"
+      ],
+      "url": "https://www.vcity.tech/studies/shelters/"
+    },
+    {
+      "name": "Twitter Rumor Detection with BERT Adapter",
+      "isActive": true,
+      "description": "Research project using the BERTweet model and custom adapters to classify the stance of tweets in relation to rumors.",
+      "highlights": [
+        "NLP",
+        "BERT",
+        "Transfer Learning",
+        "Supervised ML"
+      ],
+      "url": "https://medium.com/@rogergmarch/deciphering-stances-on-twitter-enhancing-sentiment-analysis-with-bert-adapters-14389fc3e71c",
+      "github": "https://github.com/RogerGMarch/Stance_Detection_SemEval_2017/blob/main/Transfer_Learning_for_Sentiment_Classification_Twiiter.ipynb"
+    },
+
+    {
+      "name": "Evaluating ChatGPT for Improving Scientific Writing Based on Readability",
+      "isActive": false,
+      "description": "Research paper published in MERE 2023, examining the use of ChatGPT to enhance scientific readability through various prompt engineering and statistical techniques such as zero-shot, few shot, Shapiro-Wilk test and Mann-Whitney test.",
+      "highlights": [
+        "Prompt engineering techniques ",
+        "Readability metrics",
+        "Coherence metrics"
+        
+      ],
+      "url": "https://repositori.upf.edu/bitstream/handle/10230/59586/HernandezLeo_MERE_23.pdf?sequence=1&isAllowed=y"
+    },
+
+    {
+      "name": "Find My Kebab",
+      "isActive": true,
+      "description": "An interactive map that classifies kebab shops in Barcelona into color-coded tiers based on reviews and sentiment analysis.",
+      "highlights": [
+        "Web scraping",
+        "Google Maps API",
+        "Mapbox",
+        "OpenStreetMap",
+        "Sentiment analysis",
+        "Topic modeling"
+      ],
+      "url": "http://findmykebab.com"
+    },
+
+
+    {
+      "name": "Data Analysis of 3He Gas-Filled Detectors",
+      "isActive": false,
+      "description": "A research paper detailing a digital pulse analysis methodology for 3He gas-filled neutron counters at the CERN n_TOF facility. The study utilized fast digitizers, HTCondor for high-throughput computing, and signal differentiation techniques for improved event identification and calibration.",
+      "highlights": [
+        "Digital pulse analysis",
+        "CERN n_TOF",
+        "HTCondor/Slurm",
+        "C++",
+        "ROOT",
+        "Signal differentiation"
+      ],
+      "url": "https://diposit.ub.edu/dspace/bitstream/2445/188721/1/GONZ%C3%81LEZ%20MARCH%20ROGER_6057630_assignsubmission_file_TFG-Gonzalez-March-Roger.pdf"
+    }
+    
+    
+  ]
+}

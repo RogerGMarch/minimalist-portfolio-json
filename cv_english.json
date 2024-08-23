@@ -1,0 +1,100 @@
+{
+  "basics": {
+    "name": "Roger González March",
+    "label": "ML Researcher for Planetary Health",
+    "email": "roger.gonzalez03@estudiant.upf.edu",
+    "phone": "+34 608 81 34 02",
+    "location": {
+      "address": "",
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "region": "Spain"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "roger-gonzález-march",
+        "url": "https://www.linkedin.com/in/roger-gonzález-march"
+      }
+    ],
+    "summary": "I'm a physicist with a dive into the world of AI. I excel in graphically representing complex data through aesthetics and design. I'm working towards a career in AI and Data Science, currently gaining practical experience through internships in computational social science and planetary health."
+  },
+  "work": [
+    {
+      "name": "Eurecat",
+      "position": "Internship Data Scientist",
+      "startDate": "2024-03",
+      "summary": "Engaging in the 'Complexity of Information Dynamics' project to analyze disinformation spread on social networks. Developing AI models to predict content virality."
+    },
+    {
+      "name": "UPF (Universitat Pompeu Fabra)",
+      "position": "ML Researcher for Planetary Health",
+      "startDate": "2023-10",
+      "summary": "Specializes in applying data mining techniques and automatic classifiers to unravel the nexus between Planetary wellbeing concepts and UPF's academic and research agendas."
+    },
+    {
+      "name": "SDG Group",
+      "position": "Data Analyst",
+      "startDate": "2022-02",
+      "endDate": "2023-10",
+      "summary": "Extensive experience in data visualization and analytics, specializing in turning complex data into actionable insights."
+    },
+    {
+      "name": "UPC (Universitat Politècnica de Catalunya)",
+      "position": "Data Analysis at CERN nTOF facility",
+      "startDate": "2021-09",
+      "endDate": "2022-07",
+      "summary": "Developed and executed advanced processing algorithms for digital signals within the CERN nTOF collaboration."
+    },
+    {
+      "name": "CCiTUB",
+      "position": "Raman Spectroscopy",
+      "startDate": "2020-02",
+      "endDate": "2022-03",
+      "summary": "Conducted research using Raman spectroscopy techniques."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universitat Pompeu Fabra, Barcelona",
+      "area": "Master's Degree in Intelligent Interactive Systems (IIS)",
+      "studyType": "Master",
+      "startDate": "2023-09"
+    },
+    {
+      "institution": "Universitat de Barcelona",
+      "area": "Bachelor's Degree in Physics",
+      "studyType": "Bachelor",
+      "startDate": "2017",
+      "endDate": "2021"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Core Skills",
+      "keywords": ["Deep Learning", "AI/ML Technology", "GDL", "LLMs", "NLP", "Agile", "Teamwork", "Leadership", "Proactive", "Communication", "Empathy"]
+    },
+    {
+      "name": "Programming Languages",
+      "keywords": ["Python", "SQL", "LaTeX", "Matlab", "ROOT"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["Pandas", "Scikit-learn", "Huggingface", "TensorFlow", "Spacy", "Tableau", "Power BI", "SQL", "Snowflake"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    },
+    {
+      "language": "Catalan",
+      "fluency": "Native"
+    }
+  ]
+}
