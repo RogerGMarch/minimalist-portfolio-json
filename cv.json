@@ -1,13 +1,13 @@
 {
   "basics": {
     "name": "Roger González March",
-    "label": "ML Researcher for Planetary Health",
+    "label": "Urban Data Scientist | ML Researcher | Freelance",
     "image": "/me.webp",
-    "email": "roger.gonzalez03@estudiant.upf.edu",
-    "phone": "+34 608 81 34 02",
+    "email": "rogergonzalezmarch@gmail.com",
+    "phone": "",
     "url": "https://linkedin.com/in/roger-gonzález-march",
-    "summary": "I'm a physicist and data scientist diving into the world of AI. I excel in graphically representing complex data through aesthetics and design. Experience in computational social science and planetary health. I'm eager to explore opportunities where I can fuse science, analytics, and creativity to forge innovative solutions.",
-       "location": {
+    "summary": "As a Data Scientist and Physicist, I specialize in transforming complex urban data into insights that guide impactful, people-centered change. With a background in AI and urban digital twins, I leverage data to help predict and visualize how interventions affect interconnected aspects of city life, from air quality to energy efficiency. Passionate about the intersection of science, analytics, and urban innovation, I strive to develop transparent, data-driven solutions that make cities more livable and resilient." ,
+    "location": {
       "address": "123 Main Street",
       "postalCode": "08003",
       "city": "Barcelona",
@@ -36,12 +36,13 @@
   "work": [
     {
       "name": "Barcelona Supercomputing Center",
-      "position": "Urban Digital Twin Developer",
+      "position": "Urban Data Scientist",
       "startDate": "2024-07",
-      "summary": "Contributing to the development of urban digital twins, including the implementation of cartographic data and the use of tools like CARTO. Participating in the 'Climate Shelters in Barcelona | vCity' project, focusing on hybrid work environments to enhance urban planning and climate resilience.",
+      "summary": "Leading the development of computational models for urban mobility and climate resilience at the Barcelona Supercomputing Center. In this role, I am responsible for determining optimal locations for new bike lanes and simulating their impact on residents and local neighborhoods, providing data-driven insights for the Ajuntament de Barcelona's urban mobility planning. I apply network science, machine learning, and FastAPI to analyze urban data, optimize infrastructure planning, and simulate outcomes. Additionally, I contribute to the 'Climate Shelters in Barcelona | vCity' project, focusing on hybrid work environments to enhance urban planning and climate resilience. I also work on developing the Urban Digital Twin project (vCity), which uses municipal and sensor data to create detailed virtual models of the city, allowing real-time simulations to inform decision-making.",
       "location": "Barcelona, Cataluña, España",
       "url": "https://www.vcity.tech/"
     },
+    
     {
       "name": "Eurecat",
       "position": "Internship Data Scientist",
@@ -89,7 +90,8 @@
       "institution": "Universitat Pompeu Fabra, Barcelona",
       "area": "Master's Degree in Intelligent Interactive Systems",
       "studyType": "Master",
-      "startDate": "2023-09"
+      "startDate": "2023-09",
+      "endDate": "2024-09"
     },
     {
       "institution": "Universitat de Barcelona",
@@ -168,7 +170,56 @@
     {
       "name": "HTML",
       "keywords":["HTML"]
+    },
+
+    {
+      "name": "Mapbox",
+      "keywords": ["Mapbox"]
+    },
+
+    {
+      "name": "CARTO",
+      "keywords": ["CARTO"]
+    },
+
+    {
+      "name": "GeoPandas",
+      "keywords": ["GeoPandas"]
+    },
+
+    
+    {
+      "name": "Networkx",
+      "keywords": ["Networkx"]
+    },
+
+        
+    {
+      "name": "osmx",
+      "keywords": ["osmx"]
+    },
+
+    {
+      "name": "NextJS",
+      "keywords": ["NextJS"]
+    },
+
+    {
+      "name": "React",
+      "keywords": ["React"]
+    },
+
+    {
+      "name": "FastAPI",
+      "keywords": ["FastAPI"]
+    },
+
+    {
+      "name": "Postgres",
+      "keywords": ["Postgres"]
     }
+
+
 
 
   ],
@@ -207,12 +258,25 @@
       "reference": "Prof. Mendez has been my mentor throughout my academic journey at Universitat Pompeu Fabra, guiding me in AI research."
     }
   ],
-  "awards": [{
-    "title": "Young Researcher Award",
-    "date": "2023-11-01",
-    "awarder": "AI for Good Global Summit",
-    "summary": "Awarded for innovative use of AI in planetary health research."
-  }],
+  "awards": [
+    {
+      "title": "Hackathon Winner at the Open Data Bizkaia AI Datathon 2024",
+      "date": "2024-03-16",
+      "awarder": "Lantik S.A., BizkaiaTech, Bizkaiko Foru Aldundia / Diputación Foral de Bizkaia",
+      "summary": "Developed an application analyzing 20,000 reviews to create an interactive map of Bizkaia's beaches, ranking them based on visitor sentiments. The project combined open data, artificial intelligence, and innovative perspectives on the region to promote tourism and gain deeper insights into the visitor experience.",
+      "link": "https://www.linkedin.com/feed/update/urn:li:activity:7274100147125387265/"
+    },
+    {
+      "title": "Finalist at the Sahlgrenska Global Health Hackathon 2025",
+      "date": "2025-03-20",
+      "awarder": "Sahlgrenska Global Health Hackathon, Barcelona",
+      "summary": "Developed 'SmartCAP', a real-time monitoring system to track healthcare facility saturation and detect potential local outbreaks. The project aimed to create a digital twin of Barcelona’s urgency centers to predict peak times, optimize resource allocation, and improve accessibility, using technologies such as Next.js, React, Mapbox API, OpenRouteService API, and R Shiny.",
+      "link": "https://www.linkedin.com/feed/update/urn:li:activity:7300276756207300608/"
+    }
+  ],
+  
+  
+
   "certificates": [{
     "name": "Certified Data Scientist",
     "date": "2023-05-07",
@@ -227,6 +291,48 @@
     "summary": "A study on the application of artificial intelligence techniques in the analysis of environmental data for sustainable development."
   }],
   "projects": [
+    {
+      "name": "SmartCAP - Sahlgrenska Global Health Hackathon Finalist",
+      "isActive": true,
+      "description": "Developed SmartCAP, a real-time healthcare monitoring system to track healthcare facility saturation and detect potential local outbreaks before they escalate. The project was built as part of the Sahlgrenska Global Health Hackathon and aims to predict peak times, optimize resource allocation, and improve accessibility for elderly patients using real-time data and innovative tools.",
+      "highlights": [
+        "Real-Time Healthcare Monitoring",
+        "Digital Twin of Healthcare Facilities",
+        "Mapbox API for Real-Time Visualization",
+        "OpenRouteService API for Accessibility Analysis",
+        "R Shiny for Outbreaks Dashboard",
+        "Hackathon Finalist"
+      ],
+      "url": "https://smart-cap-rogergmarchs-projects.vercel.app/"
+    },
+  
+    {
+      "name": "Ranking de Playas de Bizkaia - Hackathon",
+      "isActive": true,
+      "description": "A personal project developed end-to-end, featuring data scraping, sentiment analysis, and modeling based on Google Maps reviews. The project includes an interactive Mapbox map and a scrollytelling interface to present the results intuitively and engagingly.",
+      "highlights": [
+        "hackathon Winner",
+        "Data Scraping",
+        "Sentiment Analysis",
+        "Interactive Mapping",
+        "Scrollytelling"
+      ],
+      "url": "https://las-mejores-playas-de-bizkaia.pages.dev/"
+    },
+    
+    {
+      "name": "Traffic Cam Photobooth BCN",
+      "isActive": true,
+      "description": "A web app that helps users find the nearest traffic camera in Catalonia (especially Barcelona) and take a selfie with it! 🎥📸 This project aims to raise awareness about constant surveillance in urban areas in a fun and engaging way.",
+      "highlights": [
+        "Urban Surveillance",
+        "Web Application",
+        "Geolocation",
+        "Public Awareness"
+      ],
+      "url": "https://traffic-cam-photobooth-bcn.pages.dev/es/",
+      "github": "https://github.com/RogerGMarch/traffic_cam_photobooth_bcn"
+    },
     {
       "name": "Climate Shelters in Barcelona",
       "isActive": true,
