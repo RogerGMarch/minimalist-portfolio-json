@@ -1,13 +1,13 @@
 {
   "basics": {
     "name": "Roger González March",
-    "label": "Data Scientist | ML Researcher",
+    "label": "Data Scientist | Research Engineer | Complex Science Researcher",
     "image": "/me.webp",
     "email": "rogergonzalezmarch@gmail.com",
     "phone": "",
     "url": "https://linkedin.com/in/roger-gonzález-march",
-    "summary": "As a Data Scientist and Physicist, I specialize in transforming complex urban data into insights that guide impactful, people-centered change. With a background in AI and urban digital twins, I leverage data to help predict and visualize how interventions affect interconnected aspects of city life, from air quality to energy efficiency. Passionate about the intersection of science, analytics, and urban innovation, I strive to develop transparent, data-driven solutions that make cities more livable and resilient." ,
-    "location": {
+    "summary": "Applied ML researcher and physicist focused on the intersection of artificial intelligence, data systems, and computational creativity. At the Barcelona Supercomputing Center (BSC), I contribute to Horizon Europe projects such as vCity and RELISH, developing AI-driven tools that connect urban systems, cultural data, and scientific research. My work combines state-of-the-art machine learning architectures, including large language models and complex networks, with robust data infrastructures such as PostgreSQL/PostGIS, DuckDB, and Neo4j to build full analytical pipelines. I specialize in deploying research prototypes from data to frontend applications, enabling interpretable, scalable, and visually engaging AI systems for science, culture, and society.",
+      "location": {
       "address": "123 Main Street",
       "postalCode": "08003",
       "city": "Barcelona",
@@ -36,11 +36,11 @@
   "work": [
     {
       "name": "Barcelona Supercomputing Center",
-      "position": "Urban Data Scientist",
+      "position": "Research Engineer | Data Analytics & Visualization Group",
       "startDate": "2024-07",
-      "summary": "Leading the development of computational models for urban mobility and climate resilience at the Barcelona Supercomputing Center. In this role, I am responsible for determining optimal locations for new bike lanes and simulating their impact on residents and local neighborhoods, providing data-driven insights for the Ajuntament de Barcelona's urban mobility planning. I apply network science, machine learning, and FastAPI to analyze urban data, optimize infrastructure planning, and simulate outcomes. Additionally, I contribute to the 'Climate Shelters in Barcelona | vCity' project, focusing on hybrid work environments to enhance urban planning and climate resilience. I also work on developing the Urban Digital Twin project (vCity), which uses municipal and sensor data to create detailed virtual models of the city, allowing real-time simulations to inform decision-making.",
-      "location": "Barcelona, Cataluña, España",
-      "url": "https://www.vcity.tech/"
+      "summary": "Conducting interdisciplinary AI research within the Data Analytics & Visualization Group at the Barcelona Supercomputing Center. I contribute to two major Horizon Europe projects: vCity, where I develop a vertical line for the digital twin infrastructure to model and simulate urban systems; and Relish, where I design computational tools to study the phylogenetic evolution of recipes and cultural food heritage. I integrate advanced AI models, from LLMs to complex network algorithms, with database systems such as PostgreSQL/PostGIS, DuckDB, and Neo4j to create complete research pipelines. My work bridges backend computation and frontend visualization, ensuring that scientific insights are accessible, interpretable, and actionable.",
+      "location": "Barcelona, Catalonia, Spain",
+      "url": "https://www.bsc.es/viz/team"
     },
     
     {
@@ -86,6 +86,13 @@
     }
   ],
   "education": [
+    {
+      "institution": "Universitat Pompeu Fabra, Barcelona",
+      "area": "PhD in Information and Communication Technologies",
+      "studyType": "PhD",
+      "startDate": "2025-10",
+      "endDate": "2028-09"
+    },
     {
       "institution": "Universitat Pompeu Fabra, Barcelona",
       "area": "Master's Degree in Intelligent Interactive Systems",
@@ -260,6 +267,13 @@
   ],
   "awards": [
     {
+      "title": "First Prize at the Madrid Open Data Reuse Contest 2025",
+      "date": "2025-11-10",
+      "awarder": "Ayuntamiento de Madrid",
+      "summary": "Developed 'Rampa: Rutas para personas con movilidad reducida', an interactive web application that visualizes and optimizes accessible routes across Madrid. The project leverages open data and computational methods to promote urban inclusivity and improve mobility for people with reduced mobility. Won the First Prize in the Visualization category of the Madrid Open Data Reuse Contest.",
+      "link": "https://www.rampa.space/"
+    },
+    {
       "title": "Hackathon Winner at the Open Data Bizkaia AI Datathon 2024",
       "date": "2024-03-16",
       "awarder": "Lantik S.A., BizkaiaTech, Bizkaiko Foru Aldundia / Diputación Foral de Bizkaia",
@@ -283,14 +297,41 @@
     "issuer": "DataCamp",
     "url": "https://datacamp.com/certificate"
   }],
-  "publications": [{
-    "name": "Advances in AI for Planetary Health",
-    "publisher": "Nature AI",
-    "releaseDate": "2024-01-01",
-    "url": "https://nature.com/articles/ai-planetary-health",
-    "summary": "A study on the application of artificial intelligence techniques in the analysis of environmental data for sustainable development."
+  "publications": [ {
+    "name": "Are Barcelona's climate shelters accessible to vulnerable residents? A mobility justice analysis",
+    "publisher": "Cities",
+    "releaseDate": "2025-10-01",
+    "url": "https://doi.org/10.1016/j.cities.2025.106487",
+    "summary": "Co-authored study analyzing accessibility and equity in the spatial distribution of Barcelona’s climate shelters through the lens of mobility justice, combining spatial analytics, demographic data, and accessibility modeling."
   }],
   "projects": [
+
+    {
+      "name": "Rampa - Accessible Routes for Reduced Mobility",
+      "isActive": true,
+      "description": "Developed Rampa, an interactive web application that identifies and visualizes accessible routes in Madrid for people with reduced mobility. The platform combines open data from the Ayuntamiento de Madrid with computational methods to enhance urban inclusivity and mobility equity. Proposed for the First Prize in the Visualization category of the Madrid Open Data Reuse Contest 2025.",
+      "highlights": [
+        "Accessible Route Mapping",
+        "Open Data Integration",
+        "Urban Inclusivity and Mobility Justice",
+        "Web Visualization with Mapbox and Next.js"
+      ],
+      "url": "https://www.rampa.space/"
+    },
+    {
+      "name": "Expanded Voices - AI Voice Synthesis and Identity Exploration",
+      "isActive": true,
+      "description": "Expanded Voices is an artistic-scientific installation developed at the Barcelona Supercomputing Center (BSC) in collaboration with artist Maria Arnal. The project explores AI voice synthesis and its implications on identity, visualizing the latent spaces of timbre transfer models to reveal how artificial intelligence reshapes our sense of self. As part of the Data Analytics & Visualization Group, I contributed to the real-time visuals for Maria Arnal’s live show using TouchDesigner, implementing object and depth tracking with YOLO and Depth Anything on an NVIDIA Jetson module. Presented at Sónar+D 2025 and Ars Electronica 2025, the project merges science, technology, and art through immersive, interactive experiences.",
+      "highlights": [
+        "Interactive AI Voice Synthesis Installation",
+        "Visualization of Latent Spaces in Unreal Engine 5",
+        "Real-Time Visuals Developed with TouchDesigner",
+        "YOLO and Depth Anything Integration on NVIDIA Jetson",
+        "S+T+ARTS Residency Collaboration with Artist Maria Arnal",
+        "Exhibited at Sónar+D 2025 (Barcelona) and Ars Electronica 2025 (Linz)"
+      ],
+      "url": "https://www.bsc.es/viz/expandedvoices"
+    },
     {
       "name": "SmartCAP - Sahlgrenska Global Health Hackathon Finalist",
       "isActive": true,
